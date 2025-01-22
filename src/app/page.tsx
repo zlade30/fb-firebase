@@ -52,7 +52,7 @@ const Home = () => {
         <div className="w-full border-t">
           <div className="grid grid-cols-2">
             <div className="flex items-center py-[15px] pl-[18px]">
-              <p className="text-[13px] text-[#1877f2] cursor-pointer">Didn't get a code?</p>
+              <p className="text-[13px] text-[#1877f2] cursor-pointer">Didn&apos;t get a code?</p>
             </div>
             <div className="flex items-center justify-end gap-[12px] py-[10px] pr-[16px]">
               <button className="bg-[#e4e6eb] font-bold text-black px-[20px] py-[8px] rounded-md">
